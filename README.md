@@ -11,5 +11,9 @@ Features:
 * No data reload
 
 
-Demo
+
+appfog.com demo 
+http://aas.hp.af.cm/
+
+google apps engine demo
 http://ang-adv-search.appspot.com/
