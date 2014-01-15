@@ -11,6 +11,8 @@ Features:
 * No data reload
 
 
+DigitalOcean demo
+http://ng.ryepnoy.com/
 
 appfog.com demo 
 http://aas.hp.af.cm/
